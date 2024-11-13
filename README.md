@@ -1,2 +1,3 @@
-# programmier-bung02
-korrigierte übung
+# Nachreichung Programmieruebungen
+korrigierte uebung02
+und nachreichung von uebung03
